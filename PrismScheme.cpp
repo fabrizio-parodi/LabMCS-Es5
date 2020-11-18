@@ -8,7 +8,7 @@
 
 using namespace std;
 
-namespace exp{
+namespace ex{
   double alpha   = M_PI/3;
   double lambda1 = 579.1;
   double lambda2 = 404.7;
